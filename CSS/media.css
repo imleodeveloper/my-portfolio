@@ -308,7 +308,7 @@
         /* HEADER PERFIL */
         /* EXP SECTION */
         .exp-item{
-            height: 285px;
+            height: auto;
         }
         .exp-title h2{
             font-size: 3rem;
@@ -336,9 +336,6 @@
             width: 70%;
         }
         /*THANKS SECTION*/
-    }
-    @media (min-width: 390px){
-
     }
     @media (min-width: 412px){
         .skills-item-2 .img-skills-1{

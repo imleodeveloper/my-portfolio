@@ -97,7 +97,7 @@ const projectItem = {
                     <h3>Detalhes do Projeto:</h3>                    
                     <p><strong>Tecnologias: </strong>HTML5, CSS3, e JavaScript.</p>
                     <p><strong>Data: </strong>06 de Junho de 2024</p>
-                    <p><strong>Site: </strong><a href="https://github.com/imleozin/rick-and-morty" target="_blank" rel="noopener noreferrer">Repositório GitHub</a></p>
+                    <p><strong>Site: </strong><a href="https://github.com/imleodeveloper/rick-and-morty" target="_blank" rel="noopener noreferrer">Repositório GitHub</a></p>
                 </div>
             </div>
         </div>
