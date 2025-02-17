@@ -102,6 +102,26 @@ const projectItem = {
             </div>
         </div>
     `,
+    vierca: `
+        <div class="container-item-project">
+            <div class="header-item-project">
+                <h2>VierCa Tech</h2>
+            </div>
+            <div class="content-item-project">
+                <div class="img-project-expanded">
+                    <img src="/assets/IMG/VierCa-Tech-2.png" title="VierCa Tech" alt="Foto da empresa VierCa Tech">
+                </div>
+                <div class="text-project-expanded">                    
+                    <h3>Informações do Projeto:</h3>
+                    <p>Site da minha empresa onde nossos principais serviços são: Desenvolvimento Web e Assistência Técnica.</p>
+                    <h3>Detalhes do Projeto:</h3>                    
+                    <p><strong>Tecnologias: </strong>HTML5, CSS3, JavaScript com React, GSAP, EmailJS.</p>
+                    <p><strong>Data: </strong>01 de Fevereiro de 2025</p>
+                    <p><strong>Site: </strong><a href="https://www.viercatech.com.br" target="_blank" rel="noopener noreferrer">www.viercatech.com.br</a></p>
+                </div>
+            </div>
+        </div>
+    `,
 };
 
 //add evento para cada button
