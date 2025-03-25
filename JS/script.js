@@ -122,6 +122,46 @@ const projectItem = {
             </div>
         </div>
     `,
+    rxConsult: `
+        <div class="container-item-project">
+            <div class="header-item-project">
+                <h2>RX Consultoria</h2>
+            </div>
+            <div class="content-item-project">
+                <div class="img-project-expanded">
+                    <img src="/assets/IMG/RX-Consultoria.png" title="RX Consultoria" alt="Foto da empresa RX Consultoria">
+                </div>
+                <div class="text-project-expanded">                    
+                    <h3>Informações do Projeto:</h3>
+                    <p>Site da consultoria RX, focada em auditória em saúde. </p>
+                    <h3>Detalhes do Projeto:</h3>                    
+                    <p><strong>Tecnologias: </strong>Desenvolvido via Wix, contém loja, login, e responsividade.</p>
+                    <p><strong>Data: </strong>Em desenvolvimento</p>
+                    <p><strong>Site: </strong><a href="https://www.rxconsultoria.com.br" target="_blank" rel="noopener noreferrer">www.rxconsultoria. com.br</a></p>
+                </div>
+            </div>
+        </div>
+    `,
+    lustraOmega: `
+        <div class="container-item-project">
+            <div class="header-item-project">
+                <h2>Lustra Ômega</h2>
+            </div>
+            <div class="content-item-project">
+                <div class="img-project-expanded">
+                    <img src="/assets/IMG/Lustra-Ômega.png" title="Lustra Ômega" alt="Foto da empresa Lustra Ômega">
+                </div>
+                <div class="text-project-expanded">                    
+                    <h3>Informações do Projeto:</h3>
+                    <p>Site desenvolvido para a empresa Lustra Ômega, focada em comercialização de panos, EPI's e produtos industriais</p>
+                    <h3>Detalhes do Projeto:</h3>                    
+                    <p><strong>Tecnologias: </strong>HTML5, CSS3, JavaScript, SwiperSlide, GSAP, ViaCEP e EmailJS.</p>
+                    <p><strong>Data: </strong>Em desenvolvimento</p>
+                    <p><strong>Site: </strong><a href="https://www.lustraomega.com.br" target="_blank" rel="noopener noreferrer">www.lustraomega.com.br</a></p>
+                </div>
+            </div>
+        </div>
+    `,
 };
 
 //add evento para cada button
