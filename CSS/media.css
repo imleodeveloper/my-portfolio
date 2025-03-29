@@ -878,13 +878,13 @@
         /* HEADER */
         /*ABOUT ME SECTION */
         .about-me-section{
-            height: 100vh;
+            height: auto;
         }
         /*ABOUT ME SECTION */
 
         /* SECTION SKILLS */
         .skills-section{
-            height: 100vh;
+            height: auto;
         }
         .skills-item-2 .img-skills-1{
             left: 30px;
@@ -895,7 +895,7 @@
         /* SECTION SKILLS */
         /* EXP SECTION */
         .exp-section{
-            height: 100vh;
+            height: auto;
         }
         /* EXP SECTION */
         /*PROJECT SECTION*/
@@ -903,12 +903,12 @@
             height: 330px;
         }
         .project-section{
-            height: 100vh;
+            height: auto;
         }
         /*PROJECT SECTION*/
         /* CONTACT SECTION */
         .contact-section{
-            height: 100vh;
+            height: auto;
         }
         .contact-title h2{
             font-size: 8rem;
