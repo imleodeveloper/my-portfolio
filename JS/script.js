@@ -136,7 +136,7 @@ const projectItem = {
                     <p>Site da consultoria RX, focada em auditória em saúde. </p>
                     <h3>Detalhes do Projeto:</h3>                    
                     <p><strong>Tecnologias: </strong>Desenvolvido via Wix, contém loja, login, e responsividade.</p>
-                    <p><strong>Data: </strong>Em desenvolvimento</p>
+                    <p><strong>Data: </strong>05 de Abril de 2025</p>
                     <p><strong>Site: </strong><a href="https://www.rxconsultoria.com.br" target="_blank" rel="noopener noreferrer">www.rxconsultoria. com.br</a></p>
                 </div>
             </div>
@@ -156,8 +156,28 @@ const projectItem = {
                     <p>Site desenvolvido para a empresa Lustra Ômega, focada em comercialização de panos, EPI's e produtos industriais</p>
                     <h3>Detalhes do Projeto:</h3>                    
                     <p><strong>Tecnologias: </strong>HTML5, CSS3, JavaScript, SwiperSlide, GSAP, ViaCEP e EmailJS.</p>
-                    <p><strong>Data: </strong>Em desenvolvimento</p>
+                    <p><strong>Data: </strong>14 de Abril de 2025</p>
                     <p><strong>Site: </strong><a href="https://www.lustraomega.com.br" target="_blank" rel="noopener noreferrer">www.lustraomega.com.br</a></p>
+                </div>
+            </div>
+        </div>
+    `,
+    ebookLVC: `
+        <div class="container-item-project">
+            <div class="header-item-project">
+                <h2>eBook para LVC Agência</h2>
+            </div>
+            <div class="content-item-project">
+                <div class="img-project-expanded">
+                    <img src="/assets/IMG/ebook-lvc.png" title="eBook para LVC Agência" alt="Foto do eBook: Planejamento e Hábitos para Vencer na Vida.">
+                </div>
+                <div class="text-project-expanded">                    
+                    <h3>Informações do Projeto:</h3>
+                    <p>Landing Page desenvolvido para a empresa LVC, do eBook: Planejamento e Hábitos para Vencer na Vida, focado em gerar leads.</p>
+                    <h3>Detalhes do Projeto:</h3>                    
+                    <p><strong>Tecnologias: </strong>HTML5, CSS3, JavaScript.</p>
+                    <p><strong>Data: </strong>01 de Maio de 2025</p>
+                    <p><strong>Site: </strong><a href="https://planejamento-e-habitos-para-vencer.netlify.app" target="_blank" rel="noopener noreferrer">https://planejamento-e-habitos-para-vencer.netlify.app/</a></p>
                 </div>
             </div>
         </div>
