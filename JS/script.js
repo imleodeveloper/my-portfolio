@@ -182,6 +182,66 @@ const projectItem = {
             </div>
         </div>
     `,
+    test_aMORA: `
+        <div class="container-item-project">
+            <div class="header-item-project">
+                <h2>Teste Front-End para aMORA</h2>
+            </div>
+            <div class="content-item-project">
+                <div class="img-project-expanded">
+                    <img src="/assets/IMG/amora.webp" title="Teste Front-End para aMORA" alt="Foto do teste front-end para aMORA">
+                </div>
+                <div class="text-project-expanded">                    
+                    <h3>Informações do Projeto:</h3>
+                    <p>O teste consiste em construir uma solução para simulação de compra de um imóvel.</p>
+                    <h3>Detalhes do Projeto:</h3>                    
+                    <p><strong>Tecnologias: </strong>HTML5, CSS3, JavaScript, Next.js.</p>
+                    <p><strong>Data: </strong>06 de Junho de 2025</p>
+                    <p><strong>Site: </strong><a href="https://test-front-a-mora.vercel.app" target="_blank" rel="noopener noreferrer">https://test-front-a-mora.vercel.app</a></p>
+                </div>
+            </div>
+        </div>
+    `,
+    fabioSilvaContabilidade: `
+        <div class="container-item-project">
+            <div class="header-item-project">
+                <h2>Site institucional para Fábio Silva Contabilidade</h2>
+            </div>
+            <div class="content-item-project">
+                <div class="img-project-expanded">
+                    <img src="/assets/IMG/fabio-silva-contabilidade.webp" title="Desenvolvimento de site para Fábio Silva Contabilidade" alt="Foto page home, site Fábio Silva Contabilidade">
+                </div>
+                <div class="text-project-expanded">                    
+                    <h3>Informações do Projeto:</h3>
+                    <p>Site institucional para a Fábio Silva Contabilidade, com objetivo de adquirir tráfego orgânico com SEO otimizado</p>
+                    <h3>Detalhes do Projeto:</h3>                    
+                    <p><strong>Tecnologias: </strong>HTML5, CSS3, JavaScript.</p>
+                    <p><strong>Data: </strong>Em desenvolvimento</p>
+                    <p><strong>Site: </strong><a href="https://www.fabiosilvacontabilidade.com.br/" target="_blank" rel="noopener noreferrer">https://www.fabiosilvacontabilidade.com.br/</a></p>
+                </div>
+            </div>
+        </div>
+    `,
+    eunivida: `
+        <div class="container-item-project">
+            <div class="header-item-project">
+                <h2>Landing Page desenvolvido para o Espaço Univida</h2>
+            </div>
+            <div class="content-item-project">
+                <div class="img-project-expanded">
+                    <img src="/assets/IMG/eunivida.webp" title="Landing Page para Espaço Univida" alt="Desenvolvimento de Landing Page para Espaço Univida">
+                </div>
+                <div class="text-project-expanded">                    
+                    <h3>Informações do Projeto:</h3>
+                    <p>Landing Page desenvolvido para a empresa EUNIVIDA, focada em dermatologia</p>
+                    <h3>Detalhes do Projeto:</h3>                    
+                    <p><strong>Tecnologias: </strong>Desenvolvido via plataforma WIX.</p>
+                    <p><strong>Data: </strong>Em desenvolvimento</p>
+                    <p><strong>Site: </strong><a href="https://www.eunivida.com.br/" target="_blank" rel="noopener noreferrer">https://www.eunivida.com.br/</a></p>
+                </div>
+            </div>
+        </div>
+    `,
 };
 
 //add evento para cada button
